@@ -67,7 +67,7 @@ Developer pushes code to GitHub
 *Step 8: Install CodeDeploy Agent*
 
 
-** PHASE 5 — LOAD BALANCER & AUTO SCALING**
+**PHASE 5 — LOAD BALANCER & AUTO SCALING**
 
 *Step 9: Create Target Group*
 
