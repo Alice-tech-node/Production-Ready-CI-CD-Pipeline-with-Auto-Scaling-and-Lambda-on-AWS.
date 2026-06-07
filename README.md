@@ -85,7 +85,7 @@ Developer pushes code to GitHub
 *Step 13: Create S3 Bucket*
 
 
-** PHASE 7 — CODEBUILD (CI)**
+**PHASE 7 — CODEBUILD (CI)**
 
 *Step 14: Add buildspec.yml to GitHub repo*
 
